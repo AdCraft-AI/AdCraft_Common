@@ -1,0 +1,16 @@
+package com.devendra.shared.model;
+
+public enum AdTone {
+  FORMAL,
+  CASUAL,
+  HUMOROUS,
+  INSPIRATIONAL,
+  PROFESSIONAL,
+  URGENT,
+  FRIENDLY,
+  AUTHORITATIVE,
+  PLAYFUL,
+  EMOTIONAL,
+  TRENDY,
+  INFORMATIVE
+}

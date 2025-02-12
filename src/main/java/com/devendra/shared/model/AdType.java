@@ -1,0 +1,16 @@
+package com.devendra.shared.model;
+
+public enum AdType {
+  SOCIAL_MEDIA_POST,
+  VIDEO_SCRIPT,
+  EMAIL_CAMPAIGN,
+  BANNER_AD,
+  CAROUSEL_AD,
+  STORY_AD,
+  PRODUCT_DESCRIPTION,
+  LANDING_PAGE,
+  PRINT_AD,
+  RADIO_SCRIPT,
+  PUSH_NOTIFICATION,
+  SMS_CAMPAIGN
+}
